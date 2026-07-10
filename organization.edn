@@ -1,0 +1,13 @@
+;; Real-world organization location / contact.
+;; :head-role is institutional title only — no personal names.
+{:ooyake-id "gov.brb"
+  :official-url "https://www.gov.bb/"
+  :name-en "Barbados"
+  :name-local "Barbados"
+  :wikidata "Q244"
+  :head-role "public procurement authority"
+  :head-role-note "institutional office title only; personal names of current office-holders are intentionally NOT stored"
+  :contact-page "https://www.wikidata.org/wiki/Q36168"
+  :sourced-from "com-etzhayyim-ooyake gov-units (verbatim where present)"
+  :hq {:line-en "Bridgetown" :country "brb" :kind "capital" :provenance "https://www.wikidata.org/wiki/Q36168" :last-verified "2026-07-10" :sourcing "authoritative"}
+}
